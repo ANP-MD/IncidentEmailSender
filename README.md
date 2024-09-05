@@ -1,1 +1,1 @@
-# IncidentEmailSender
+# IncidentsEmailSender
